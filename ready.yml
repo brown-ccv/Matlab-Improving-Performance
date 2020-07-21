@@ -1,0 +1,8 @@
+repo:             Matlab-Improving-Performance
+site_name:        Basic tricks to improving matlab performance for scientific computing
+authors:
+  - name: Rohit Kakodkar
+    github_user: rkakodkar
+site_description: This workshop will cover basic performance optimization techniques using MATLAB, including: code profiling, pre-allocation, sequential memory access, vectorization, and efficient matrix-vector storage and operations. We will assume that participants have a basic understanding of the MATLAB programming language.
+docs_url:         https://github.com/brown-ccv/Matlab-Improving-Performance
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
