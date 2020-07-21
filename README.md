@@ -14,7 +14,7 @@ You can view the slides for this workshop [here](https://docs.google.com/present
 
 ## Downloading this Workshop
 
-You can down this repository to test the experiments/examples provided
+You can download this repository to test the experiments/examples provided
 
 To clone
 
