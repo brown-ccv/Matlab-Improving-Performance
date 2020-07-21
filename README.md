@@ -20,5 +20,5 @@ To clone
 
 ```
     git clone https://github.com/brown-ccv/Matlab-Improving-Performance.git
-    cd Matlab-Improving_Performance
+    cd Matlab-Improving-Performance
 ```
