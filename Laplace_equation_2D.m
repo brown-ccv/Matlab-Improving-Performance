@@ -38,7 +38,7 @@ tol = 1e-5;
 % 
 % %% ---------------------------------------- %%
 
-% solve for every time step
+% % solve for every time step
 % 
 % [T_last] = set_initial_conditions(N, Tmax);
 % 
@@ -53,10 +53,10 @@ tol = 1e-5;
 
 
 % %% --------------------------------------------- %%
-% 
-% vectorized solutions
-% 
-% 
+% % 
+% % vectorized solutions
+% % 
+% % 
 % res = inf;
 % 
 % [T_last] = set_initial_conditions(N, Tmax);
@@ -72,7 +72,7 @@ tol = 1e-5;
 % 
 % toc
 
-%% -------------------------------------- 
+% -------------------------------------- 
 
 % % vectorization using matrix vector
 % 
